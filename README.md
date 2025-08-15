@@ -1,6 +1,6 @@
 # 🧠 Mood Tracker App
 
-Welcome to the Mood Tracker App — your personal companion for emotional wellness, self-discovery, and mental health awareness. This full-stack application helps you track daily moods, journal thoughts, and engage in personalized self-care routines, all powered by insightful data.
+Welcome to the Mood Tracker App  your personal companion for emotional wellness, self-discovery, and mental health awareness. This full-stack application helps you track daily moods, journal thoughts, and engage in personalized self-care routines, all powered by insightful data.
 
 <div align="center">
   <img width="716" height="421" alt="image" src="https://github.com/user-attachments/assets/43f1edd7-fbd3-4987-b6f6-d13c3440e7c9" />
